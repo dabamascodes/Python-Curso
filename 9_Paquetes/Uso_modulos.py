@@ -7,21 +7,22 @@ Created on Thu Jun 25 00:16:21 2020
 """
 
 
-# from calculos.calculos_generales import dividir
+#from calculos.calculos_generales import dividir
 
-# dividir(4,6)
-
-#=============================================================================
-
-# from calculos.calculos_generales import potencia
-
-# potencia(4,6)
+#dividir(4,6)
 
 #=============================================================================
 
-# from calculos.calculos_generales import *
+#from calculos.calculos_generales import potencia
 
-# potencia(4,6)
+#potencia(4,6)
+
+#=============================================================================
+
+#from calculos.calculos_generales import *
+
+#redondear(4.8)
+#potencia(4,6)
 
 #=============================================================================
 
